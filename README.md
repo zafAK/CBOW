@@ -1,0 +1,1 @@
+This was project based off the popular Continuous bag of words model developed by Google. I re-created this model for my own learning benefit in order to understand natural language processing vector based manipulations, and machine translation further. The jupyter notebook file details my comments and code more thoroughly.
